@@ -1,0 +1,4 @@
+enum EventDetailMode {
+  edit,
+  add,
+}
